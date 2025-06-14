@@ -1,8 +1,6 @@
-## Hi there 👋
-<!-- 👋 saludo -->
 # ¡Hola! 👋
 
-Soy Juan González Pardo, estudio Ingeniería Infotmática y me encanta construir cosas
+Soy Juan González Pardo, estudio Ingeniería Infotmática y lo que más me gusta es construir las ideas que tengo
 ## 🛠️ Tecnologías
 
 <div>
