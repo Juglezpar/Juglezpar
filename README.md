@@ -16,3 +16,22 @@ Soy Juan González Pardo, estudio Ingeniería Infotmática y lo que más me gust
 </div>
 <br clear="both"/>
 
+## 🚧 En desarrollo
+
+> Actualmente construyendo un _wrapper_ de IA full-stack:
+
+- **Backend**: FastAPI + Supabase Auth/DB  
+- **Frontend móvil**: React Native + Expo  
+- **Integración IA**: ??????  
+- **Características clave**:
+  - Autenticación JWT con Supabase GoTrue  
+  - CRUD de prompts/respuestas en PostgreSQL  
+  - Streaming de respuestas en tiempo real  
+  - Reconocimiento de imágenes  
+
+## 💼 Proyectos destacados
+
+| Proyectos ya realizados                     | Tech stack                          | Descripción rápida/URL                           |
+|---------------------------------------------|-------------------------------------|--------------------------------------------------|
+| **Stupconnect**                             | PHP·MYSQL·BLUEHOST                  | https://stupconnect.com/                         |
+| **JUEGO PUEBLO DUERME ON-LINE**             | VUE·NODE.JS·REDIS·WEBSOCKETS        | https://github.com/UNIZAR-30226-2025-08           |
