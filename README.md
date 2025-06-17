@@ -22,7 +22,7 @@ Soy Juan González Pardo, estudio Ingeniería Infotmática y lo que más me gust
 
 - **Backend**: FastAPI + Supabase Auth/DB  
 - **Frontend móvil**: React Native + Expo  
-- **Integración IA**: ??????  
+- **Integración IA**: OpenAi 
 - **Características clave**:
   - Autenticación JWT con Supabase GoTrue  
   - CRUD de prompts/respuestas en PostgreSQL  
