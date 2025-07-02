@@ -29,7 +29,7 @@ Soy Juan González Pardo, estudio Ingeniería Infotmática y lo que más me gust
   - Streaming de respuestas en tiempo real  
   - Reconocimiento de imágenes  
 
-## 💼 Proyectos destacados
+## 💼 Proyectos Anteriores
 
 | Proyectos ya realizados                     | Tech stack                          | Descripción rápida/URL                           |
 |---------------------------------------------|-------------------------------------|--------------------------------------------------|
